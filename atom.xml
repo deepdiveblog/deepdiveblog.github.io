@@ -6,15 +6,36 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://deepdiveblog.github.io/"/>
-  <updated>2018-03-25T11:26:24.541Z</updated>
+  <updated>2018-03-25T12:22:34.645Z</updated>
   <id>http://deepdiveblog.github.io/</id>
   
   <author>
-    <name>Liang</name>
+    <name>deepdiveblog</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sprint Boot深入解析：starter是如何工作的</title>
+    <link href="http://deepdiveblog.github.io/2018/03/25/sprint-boot-in-depth-how-does-starter-work/"/>
+    <id>http://deepdiveblog.github.io/2018/03/25/sprint-boot-in-depth-how-does-starter-work/</id>
+    <published>2018-03-25T12:21:27.000Z</published>
+    <updated>2018-03-25T12:22:34.645Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hello-1"><a href="#hello-1" class="headerlink" title="hello 1"></a>hello 1</h1><h1 id="hello-2"><a href="#hello-2" class="headerlink" title="hello 2"></a>hello 2</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;hello-1&quot;&gt;&lt;a href=&quot;#hello-1&quot; class=&quot;headerlink&quot; title=&quot;hello 1&quot;&gt;&lt;/a&gt;hello 1&lt;/h1&gt;&lt;h1 id=&quot;hello-2&quot;&gt;&lt;a href=&quot;#hello-2&quot; class=&quot;headerlink
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
