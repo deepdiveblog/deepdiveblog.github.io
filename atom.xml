@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://deepdiveblog.github.io/"/>
   <updated>2018-03-25T11:26:24.541Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://deepdiveblog.github.io/</id>
   
   <author>
     <name>Liang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/25/hello-world/"/>
-    <id>http://yoursite.com/2018/03/25/hello-world/</id>
+    <link href="http://deepdiveblog.github.io/2018/03/25/hello-world/"/>
+    <id>http://deepdiveblog.github.io/2018/03/25/hello-world/</id>
     <published>2018-03-25T11:26:24.540Z</published>
     <updated>2018-03-25T11:26:24.541Z</updated>
     
